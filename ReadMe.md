@@ -1,21 +1,80 @@
-# 💫 About Me:
-Hi, I'm Celine 👋<br><br> 🚀 About Me<br><br>I'm an Informatica student at the Open Universiteit with a strong interest in software development, AI-assisted development, cybersecurity, automation and emerging technologies.<br><br>I enjoy building projects, learning new programming languages and exploring how software, hardware and AI can work together.<br><br>📚 Currently Learning<br><br>* SQL for databases and data analysis<br>* Linux Fundamentals<br>* Microsoft Azure Fundamentals<br>* DevOps Fundamentals<br>* REST APIs<br>* JSON & XML<br>* Test Automation<br>* Swift (iOS Development)<br><br>💻 Technologies<br><br>* Python<br>* Java<br>* C<br>* C++<br>* HTML<br>* CSS<br>* JavaScript<br>* SQL<br>* Git & GitHub<br><br> 🔬 Interests<br><br>* Robotics<br>* Raspberry Pi<br>* Quantum Mechanics<br>* Cybersecurity<br>* AI & Machine Learning<br>* Blender & 3D Design<br>* Music Production<br>* Acoustics & Audio Technology<br><br> 🎓 Education<br><br>* Bachelor Informatica (Open Universiteit) - In Progress<br>* IELTS Academic B2<br>* Staatsexamen NT2 Programma II<br>* NHA Apps Maken & Apps Programmeren (Grade: 10)<br><br>🎯 Goals<br><br>My goal is to develop into a software engineer and contribute to innovative technologies in software development, AI and automation.<br><br>📫 Connect With Me<br><br>Feel free to explore my repositories and follow my learning journey.<br>
+# Hi, I'm Celine 👋
 
+**Computer Science student | Software Development · AI/LLM Evaluation · Product Development**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
- 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=celinenaomidg&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
+I'm a Bachelor Informatica student at the Open Universiteit building practical software projects while developing toward software engineering and AI/LLM engineering. I enjoy turning ideas into working products and combining technical problem-solving with product thinking, design and experimentation.
 
-![](https://streak-stats.demolab.com/?user=celinenaomidg&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=celinenaomidg&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## Current focus
 
- 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=celinenaomidg&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+- Software development and mobile applications
+- AI/LLM evaluation and prompt quality
+- Backend services and real-time synchronization
+- Testing, debugging and software quality
+- Cloud, APIs and production-oriented engineering fundamentals
+
+## Featured project
+
+### FamilyOS — In Progress
+
+A family application focused on parent-child collaboration, communication, safety, planning, health, allowance tracking and screen time.
+
+**Stack:** Swift · SwiftUI · Firebase
+
+Current demonstrated work includes:
+- Parent/child flows with role-based restrictions
+- Account and device linking
+- Allowance and health tracking
+- Family alerts, check-ins and routines
+- Linked-device status
+- Firebase backend deployment
+- Build validation and automated testing
+- Privacy- and safety-by-design product decisions
+
+Still in active development: broader real-time synchronization, screen-time management, communication features, APNs end-to-end testing, geofencing/background location and additional production-readiness work.
+
+> The source repository is currently private while the project is in active development. A public case study and technical documentation will be published separately.
+
+## Technical foundation
+
+**Programming:** Python · Java · C · C++ · JavaScript · Swift · SQL · HTML · CSS  
+**Mobile & Web:** SwiftUI · Angular · iOS development  
+**Backend & Data:** Firebase · Firebase backend functions · real-time synchronization · SQL  
+**Development:** Git · GitHub · debugging · build validation · automated testing · simulator testing · version control  
+**Tools:** VS Code · Cursor · Xcode · Windsurf · JetBrains IDEs
+
+## Currently learning
+
+**AI & Software:** LLM evaluation · prompt quality · REST APIs · HTTP/JSON · FastAPI · PostgreSQL · RAG · AI Agents/tool calling  
+**Engineering & Cloud:** Docker · Azure fundamentals · CI/CD · GitHub Actions · monitoring · application security  
+**Computer Science:** algorithms · data structures · Big-O · software architecture
+
+## Product & creative technology
+
+Canva · Framer · Elementor · Affinity Designer · Procreate · Blender · SketchUp · Live Home 3D · Logic Pro · FL Studio
+
+## Education
+
+- **Bachelor Informatica — Open Universiteit** — In Progress
+- **Bit Academy — Nexed Orientation** — Development · AI & Data · Cybersecurity · Robotics · Git — In Progress
+- **NHA Apps Maken & Apps Programmeren** — Completed, final grade **10/10**
+- **IELTS Academic** — B2
+- **Staatsexamen NT2 — Programma II**
+
+## Interests
+
+AI & Generative AI · Robotics · Automation · Product Development · UX/UI · Hardware & Electronics · 3D Design · Creative Technology · Music Production · Emerging Technologies
+
+## Career direction
+
+**Computer Science student → Software Development → AI/LLM Engineering**
+
+Currently interested in remote opportunities in AI evaluation/training, junior software development and technical project roles where I can contribute while continuing to build strong engineering evidence.
+
+## Contact
+
+- GitHub: [github.com/CelineNaomiDG](https://github.com/CelineNaomiDG)
+- Email: `Celinedegraaf.tech@gmail.com`
 
 ---
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/2securethebag) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*I prefer to show progress through projects, commits, tests and documentation rather than overstate experience.*
